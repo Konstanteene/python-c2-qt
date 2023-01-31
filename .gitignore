@@ -1,1 +1,8 @@
 venv/
+TODO.txt
+untitled.ui
+main.py
+main2.py
+*.txt
+.idea/
+__pycache__/
