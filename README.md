@@ -1,5 +1,7 @@
 # python-c2-qt
 C2 windows/linux app written in Python and PyQt5
+
+Creating .exe files:
 * pyinstaller --onefile server.py
 * pyinstaller --onefile client.py
 
